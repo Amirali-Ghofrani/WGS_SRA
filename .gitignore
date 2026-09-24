@@ -1,4 +1,4 @@
 data/raw/
 data/trimmed
 results/fastqc
-
+results/fastqc_trimmed

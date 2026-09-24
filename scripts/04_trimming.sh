@@ -26,7 +26,7 @@ mkdir -p data/trimmed
 #   the average quality falls below 20.
 #
 # MINLEN:60
-#   Remove reads shorter than 36 bases after trimming.
+#   Remove reads shorter than 60 bases after trimming.
 
 java -jar /usr/share/java/trimmomatic.jar PE \
 data/raw/SRR28339303_1.fastq \
